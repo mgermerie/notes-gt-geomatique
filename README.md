@@ -1,6 +1,9 @@
-# S'alligner sur la vision du GT géomatique : nos ambitions (10 min)
+L'atelier se déroule en 3 parties. Les durées indiquées sont indicative et donne plus une information de
+durées relatives des étapes (cela peut être raccourci en fonction du temps dont on dispose).
 
-Lien mural :
+Lien vers le mural : https://app.mural.co/t/design2192/m/design2192/1750259639380/46e8a120f11c379f26f0af61945840861e85691b
+
+# S'alligner sur la vision du GT géomatique : nos ambitions (10 min)
 
 On s'immagine dans 3 ans et on repond à ces questions :
 - Que fait et produit le GT ? De quoi peut on se vanter ?
@@ -36,8 +39,3 @@ On élabore les problèmes identifiés comme prioritaires.
 
 Maintenant que les problèmes et oportunités prioritaires sont bien définis, on établi la liste de ce
 qu'on peut mettre en oeuvre au sein du GT.
-
-
-# TODO avant demain
-
-Créer les murals et mettre les liens ici
